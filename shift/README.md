@@ -43,8 +43,6 @@ The 4 bit shift register looks as shown below
   <img src="img/moc.gif" width="250"/>
 </p>
 
-The timming diagram of the 4 bit shift register is as follows
-<p align="left">
-  <img src="img/shifttt.png" width="250"/>
-</p>
+
+
 
