@@ -25,16 +25,16 @@ SC_MODULE (dff) {
 		n2.B(clk);
 		//S2
 		n1.F(S2);
-		n3.A(S2);
+		n4.A(S2);
 		//S3
 		n2.F(S3);
-		n4.B(S3);
+		n3.B(S3);
 		//S4
-		n3.B(S4);
-		n4.F(S4);
+		n4.B(S4);
+		n3.F(S4);
 		//port
-		n3.F(dout);
-		n4.A(dout);
+		n4.F(dout);
+		
 		
 		
 		
